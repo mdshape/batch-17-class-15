@@ -1,0 +1,47 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+
+.hero{ 
+ height: 400px;
+  background-image:url(images/aaa.png);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  color:red;
+  overflow:hidden;
+  font-size:20px;
+}
+
+.project{
+  margin-top:15px;
+  width:100%;
+  overflow:hidden;
+}
+.project-item{
+  height:200px;
+  width:32.5%;
+  border:1px solid black;
+  float:left;
+  margin-right:10px;
+  margin-bottom:15px;
+}
+.footer{
+  height:150px;
+  background-color: aqua;
+  margin-top:10px;
+}
+.footer-item{
+  width:33%;
+  float:left;
+
+}
+.link {
+  text-decoration:none;
+  display:block;
+  margin:3px;
+}
